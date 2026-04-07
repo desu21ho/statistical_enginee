@@ -21,7 +21,7 @@ Var = Σ(x - x̄)^2 / (N - 1)
 ## Setup Instructions
 
 ```bash
-git clone <link>
+git clone <https://github.com/desu21ho/statistical_enginee.git>
 cd statistical_enginee
 python main.py
 ```
